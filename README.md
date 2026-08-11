@@ -31,7 +31,6 @@ This project is a solution to the [Caching Proxy Server Project on roadmap.sh](h
 ## How to use 
 
 1. Run first npm i in order to install all the required packages .
-2. Possible commends :
-   1.caching-proxy --clear-cache to clear redis caching server.
-   2.caching-proxy --port <port> --origin <url of the target webpage> .
-3. You can use -o and -p as a short cut of --origin and --port
+2.caching-proxy --clear-cache to clear redis caching server.
+3.caching-proxy --port <port> --origin <url of the target webpage> .
+4.You can use -o and -p as a short cut of --origin and --port
