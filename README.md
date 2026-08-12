@@ -25,7 +25,7 @@ This project is a solution to the [Caching Proxy Server Project on roadmap.sh](h
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/caching-proxy.git](https://github.com/your-username/caching-proxy.git)
+   git clone https://github.com/abalahab370-ui/Proxy-server.git
 ---
 
 ## How to use 
